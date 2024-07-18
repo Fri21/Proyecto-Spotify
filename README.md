@@ -130,3 +130,4 @@ De esta manera se descarta la premisa de que las características técnicas de u
 
 ### [Presentación](https://drive.google.com/file/d/1ByA65mDGVs__wQtR2OKMfRdaS6oTMKe1/view?usp=sharing)
 ### [Dashboard](https://drive.google.com/file/d/1aWTPEtqaZA3NkA82V5d4XnCke3YhU540/view?usp=sharing)
+### [Video](https://www.loom.com/share/11ab5f29c6824351a116a8de530a6c9e?sid=7f22661d-77fe-4439-aa52-69fc54293ffe)
