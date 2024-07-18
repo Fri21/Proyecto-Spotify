@@ -38,8 +38,8 @@ En este contexto, una discográfica se enfrenta al emocionante desafío de lanza
  El objetivo es que la discográfica y el nuevo artista puedan tomar decisiones informadas que aumenten sus posibilidades de conseguir el “éxito”.
  
 ## 👩🏻‍🤝‍👩🏻Equipo
-+ Frida Castillo
-+ Jaqueline Mera
+- [Frida Castillo](https://github.com/Fri21)
+- [Jaqueline Mera](https://github.com/JaquelineMera)
 
 ## ⚙Herramientas de apoyo
 <details>
